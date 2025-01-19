@@ -1,0 +1,48 @@
+
+> engage360-ui@1.0.1 build-storybook
+> storybook build --output-dir=C:\Users\arinp\AppData\Local\Temp\chromatic--9292-UPhRPPPlWkuj
+
+[1m@storybook/core v8.4.7
+[22m
+info => Cleaning outputDir: [36mC:\Users\arinp\AppData\Local\Temp\chromatic--9292-UPhRPPPlWkuj[39m
+info => Loading presets
+info => Building manager..
+info => Manager built ([38;2;181;126;229m1.07 s[39m)
+info => Building preview..
+info Using tsconfig paths for react-docgen
+[36mvite v4.5.5 [32mbuilding for production...[36m[39m
+transforming...
+[32m✓[39m 104 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[32miframe.html                               [39m[1m[2m 16.17 kB[22m[1m[22m[2m │ gzip:   4.42 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[35massets/preview-5ee12636.css               [39m[1m[2m  6.37 kB[22m[1m[22m[2m │ gzip:   1.88 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/preview-880001ad.js                [39m[1m[2m  0.11 kB[22m[1m[22m[2m │ gzip:   0.11 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/preview-f161ba31.js                [39m[1m[2m  0.17 kB[22m[1m[22m[2m │ gzip:   0.15 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/index-a8cfb451.js                  [39m[1m[2m  0.42 kB[22m[1m[22m[2m │ gzip:   0.27 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/preview-7790bf9c.js                [39m[1m[2m  0.70 kB[22m[1m[22m[2m │ gzip:   0.45 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/preview-8c2b145e.js                [39m[1m[2m  0.71 kB[22m[1m[22m[2m │ gzip:   0.50 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/chunk-XP5HYGXS-8b50b325.js         [39m[1m[2m  0.72 kB[22m[1m[22m[2m │ gzip:   0.41 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/index-356e4a49.js                  [39m[1m[2m  0.77 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/react-18-c2f8c353.js               [39m[1m[2m  0.80 kB[22m[1m[22m[2m │ gzip:   0.47 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/jsx-runtime-50395f49.js            [39m[1m[2m  0.92 kB[22m[1m[22m[2m │ gzip:   0.58 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/index-718c9973.js                  [39m[1m[2m  1.79 kB[22m[1m[22m[2m │ gzip:   0.91 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/Button.stories-568887d1.js         [39m[1m[2m  2.16 kB[22m[1m[22m[2m │ gzip:   0.88 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/Input.stories-0501c880.js          [39m[1m[2m  3.23 kB[22m[1m[22m[2m │ gzip:   0.96 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/preview-3a42e338.js                [39m[1m[2m  3.56 kB[22m[1m[22m[2m │ gzip:   1.72 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/Avatar.stories-4543c4b8.js         [39m[1m[2m  3.63 kB[22m[1m[22m[2m │ gzip:   1.45 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/iframe-1841e4b6.js                 [39m[1m[2m  3.91 kB[22m[1m[22m[2m │ gzip:   1.55 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/preview-30b1a6f3.js                [39m[1m[2m  5.03 kB[22m[1m[22m[2m │ gzip:   1.86 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/index-9fa1aa67.js                  [39m[1m[2m  6.96 kB[22m[1m[22m[2m │ gzip:   2.78 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/preview-0a3d7b22.js                [39m[1m[2m  7.62 kB[22m[1m[22m[2m │ gzip:   1.56 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/preview-9e19507e.js                [39m[1m[2m  8.29 kB[22m[1m[22m[2m │ gzip:   3.18 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/Color-F6OSRLHC-0f9ce6b7.js         [39m[1m[2m 29.38 kB[22m[1m[22m[2m │ gzip:  11.05 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/entry-preview-51dbc157.js          [39m[1m[2m 40.63 kB[22m[1m[22m[2m │ gzip:  13.57 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/index-f1ee927b.js                  [39m[1m[2m 53.67 kB[22m[1m[22m[2m │ gzip:  15.54 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/index-5b53e37f.js                  [39m[1m[2m133.98 kB[22m[1m[22m[2m │ gzip:  43.14 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/entry-preview-docs-facee376.js     [39m[1m[2m256.65 kB[22m[1m[22m[2m │ gzip:  77.31 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/preview-5f5e2236.js                [39m[1m[33m545.91 kB[39m[22m[2m │ gzip: 144.90 kB[22m
+[2mC:/Users/arinp/AppData/Local/Temp/chromatic--9292-UPhRPPPlWkuj/[22m[36massets/DocsRenderer-CFRXHY34-18a6652a.js  [39m[1m[33m889.68 kB[39m[22m[2m │ gzip: 278.57 kB[22m
+[32m✓ built in 18.88s[39m
+info => Preview built ([38;2;181;126;229m25 s[39m)
+info => Output directory: C:\Users\arinp\AppData\Local\Temp\chromatic--9292-UPhRPPPlWkuj
