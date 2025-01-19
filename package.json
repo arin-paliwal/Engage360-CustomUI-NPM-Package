@@ -1,7 +1,7 @@
 {
   "name": "engage360-ui",
-  "version": "1.0.0",
-  "description": "This package contains User Interface components for the Engage360 project.",
+  "version": "1.0.1",
+  "description": "A professional UI components library for the Engage360 project, designed for seamless integration and efficient development.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
@@ -16,7 +16,22 @@
     "build-storybook": "storybook build"
   },
   "author": "Arin Paliwal",
-  "license": "ISC",
+  "license": "MIT",
+  "homepage": "https://github.com/arin-paliwal/Engage360-CustomUI-NPM-Package#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arin-paliwal/Engage360-CustomUI-NPM-Package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arin-paliwal/Engage360-CustomUI-NPM-Package/issues"
+  },
+  "keywords": [
+    "UI components",
+    "React",
+    "Tailwind CSS",
+    "Engage360",
+    "React library"
+  ],
   "peerDependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
@@ -42,5 +57,8 @@
     "tailwindcss": "^3.4.17",
     "typescript": "^5.2.2",
     "vite": "^4.4.10"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
