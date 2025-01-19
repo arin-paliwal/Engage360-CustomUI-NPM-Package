@@ -102,11 +102,11 @@ To set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arinpaliwal/engage360-ui.git
+   git clone https://github.com/arin-paliwal/Engage360-CustomUI-NPM-Package.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd engage360-ui
+   cd Engage360-CustomUI-NPM-Package
    ```
 3. Install dependencies:
    ```bash
