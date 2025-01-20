@@ -1,20 +1,16 @@
 {
   "compilerOptions": {
-    "target": "ES6", // Target ES6 features
-    "module": "ESNext", // Use ESNext module resolution
-    "jsx": "react-jsx", // Updated for React 17+ JSX transform
-    "strict": true, // Enable strict type-checking
-    "moduleResolution": "Node", // Resolve modules using Node's algorithm
-    "esModuleInterop": true, // Enable interoperability between CommonJS and ES Modules
-    "skipLibCheck": true, // Skip type checking of declaration files
-    "declaration": true, // Generate declaration files
-    "declarationDir": "./dist", // Output directory for declaration files
-    "outDir": "./dist", // Output directory for compiled files
-    "types": ["node"], // Include Node.js type definitions
-    "lib": ["DOM", "ESNext"], // Include DOM and latest ES features
-    "allowSyntheticDefaultImports": true, // Allow default imports from modules without them
-    "resolveJsonModule": true // Allow importing JSON files
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "declarationDir": "dist/types",
+    "emitDeclarationOnly": true,
+    "moduleResolution": "node",
+    "jsx": "react",
+    "target": "ESNext",
+    "module": "ESNext",
+    "strict": true
   },
-  "include": ["src"], // Include all files in the src folder
-  "exclude": ["node_modules", "dist"] // Exclude node_modules and dist
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist", "**/*.stories.tsx"]
 }

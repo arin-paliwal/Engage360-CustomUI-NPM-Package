@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React,{ useEffect, useState } from "react";
 
 interface AvatarProps {
   name: string;
@@ -29,7 +29,7 @@ const satisfyingColors = [
   "#E8BFA6",
 ];
 
-const Avatar = ({ name, size, borderRadius }: AvatarProps) => {
+const Avatar:React.FC<AvatarProps> = ({ name, size, borderRadius }: AvatarProps) => {
   if(name=="") name="Anonymous";
   const [initials, setInitials] = useState<string>();
   const [color, setColor] = useState<string>();
