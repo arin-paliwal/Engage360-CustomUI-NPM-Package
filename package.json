@@ -2,8 +2,8 @@
   "name": "engage360-ui",
   "version": "1.0.4",
   "description": "A professional UI components library for the Engage360 project, designed for seamless integration and efficient development.",
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "dist/src/index.js",
+  "module": "dist/src/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
